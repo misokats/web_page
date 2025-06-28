@@ -4,7 +4,7 @@
 * http://localhost:8000/
 
 ## 今後やりたいこと
-* todoリスト
+* Nginx
 * Node.js
 * 簡易API。PythonとFlask
 * クローンを動かす。
