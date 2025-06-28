@@ -2,3 +2,9 @@
 * shファイルでPython3を起動。
 * 権限付与が必要。chmod +x /.server.sh
 * http://localhost:8000/
+
+## 今後やりたいこと
+* todoリスト
+* Node.js
+* 簡易API。PythonとFlask
+* クローンを動かす。
