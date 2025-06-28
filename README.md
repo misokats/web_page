@@ -1,1 +1,5 @@
-# web_page
+# WSL上でサーバーを構築する実験１
+##Python3
+##shファイルでPython3を起動。
+###権限付与が必要。chmod +x /.server.sh
+###http://localhost:8000/
