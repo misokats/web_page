@@ -5,6 +5,5 @@
 
 ## 今後やりたいこと
 * Nginx
-* Node.js
-* 簡易API。PythonとFlask
-* クローンを動かす。
+* AWS
+* Flask
