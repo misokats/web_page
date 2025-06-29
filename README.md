@@ -3,6 +3,10 @@
 * 権限付与が必要。chmod +x /.server.sh
 * http://localhost:8000/
 
+## 今まで解決した問題点（主にgit）
+* configの設定。
+* コンフリクトの解消。
+
 ## 今後やりたいこと
 * Nginx
 * AWS
